@@ -5,7 +5,7 @@ console.log(post.colors)
 
 post.hasManyColors=""
 
-
+let colors = 4
 if (colors > 3) {
     console.log("true");
   } else {
@@ -14,7 +14,6 @@ if (colors > 3) {
 
 let myfirstboolean=true
 
-console.log(post.colors.lenght)
 
         // if ([colors]>3) {
         //     console.log("true")} else {
